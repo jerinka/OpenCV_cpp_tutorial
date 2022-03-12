@@ -24,4 +24,4 @@ cd ~
 pkg-config --modversion opencv
 # 4.2.0
 # For more details,
-# http://www.codebind.com/linux-tutorials/how-to-install-opencv-in-ubuntu-20-04-lts-for-c-c/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-opencv-in-ubuntu-20-04-lts-for-c-c
+# http://www.codebind.com/linux-tutorials/how-to-install-opencv-in-ubuntu-20-04-lts-for-c-c/

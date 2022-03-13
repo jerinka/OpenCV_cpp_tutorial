@@ -35,7 +35,7 @@ add "/usr/local/include/opencv4/**"
 ## 1. Hello world 
 
 ### Commandline
-```g++ hello.cpp -o output -std=c++11 `pkg-config --cflags --libs opencv4```\
+```g++ hello.cpp -o output -std=c++11 `pkg-config --cflags --libs opencv4` ```\
 ```./output```
 
 ### Makefile

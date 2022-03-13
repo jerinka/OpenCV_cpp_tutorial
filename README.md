@@ -50,7 +50,7 @@ $(PROJECT) : $(SRC)\
 ```./new_output```
 
 
-2. Camera capture
+## 2. Camera capture
 
 
 # Reference

@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+cppunit
+output
 
 # Compiled Object files
 *.slo

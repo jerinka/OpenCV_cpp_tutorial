@@ -55,7 +55,10 @@ Hint: make is cocky about tab, 4 spaces wont work
 
 
 ## 2. Camera capture
+```g++ cam_capture.cpp -o output -std=c++11 `pkg-config --cflags --libs opencv4` ```\
+```./output```
 
+## 3. 
 
 # Reference
 
@@ -66,5 +69,9 @@ http://techawarey.com/programming/install-opencv-c-c-in-ubuntu-18-04-lts-step-by
 vscode tips
 
 https://medium.com/analytics-vidhya/how-to-install-opencv-for-visual-studio-code-using-ubuntu-os-9398b2f32d53
+
+Github actions
+
+https://www.incredibuild.com/blog/using-github-actions-with-your-c-project
 
 

@@ -12,10 +12,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - echo "need to handle opencv in actions"
+    - run: echo "cicd with opencv to be fixed"
     # - uses: actions/checkout@v2
     # - name: make
-    #   run : make
+    #   run: make
     # - name: make check
     #   run: make check
     # - name: make distcheck

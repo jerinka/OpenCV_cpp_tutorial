@@ -48,6 +48,7 @@ LIBS = `pkg-config --cflags --libs opencv4`\
 $(PROJECT) : $(SRC)\
 	$(CC) $(SRC) -o $(PROJECT) $(LIBS)
 ```
+Hint: make is cocky about tab, 4 spaces wont work
 
 ```make```
 ```./new_output```
